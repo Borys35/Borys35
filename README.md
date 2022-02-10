@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Borys35
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning CMS and how to integrate it with frontend
-- 💞️ I’m looking to collaborate on React/Next.js projects
+- 👀 I’m interested in front-end development, designing and multiplayer games
+- 🌱 I’m currently learning Strapi CMS and integrating it with GraphQL
+- 💞️ I’m looking to collaborate mainly on React/Next.js projects. I am also able to make design mockups like these on my behance profile: https://www.behance.net/boryskaczmarek
 - 📫 How to reach me? Via e-mail: boryskac10@gmail.com
 
 <!---
