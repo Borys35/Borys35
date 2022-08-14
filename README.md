@@ -1,3 +1,5 @@
+<h1 align="center">hi there! :wave:</h1>
+
 - 👋 Hi, I’m @Borys35
 - 👀 I’m interested in front-end development, designing and multiplayer games
 - 🌱 I’m currently learning Strapi CMS and integrating it with GraphQL
