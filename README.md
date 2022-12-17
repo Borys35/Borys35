@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/logo.png" width="120"/>
   <h1>Hi 👋, I'm Borys Kaczmarek!</h1>
-  <h3>A aspiring web developer & designer!</h3>
+  <h3>A self-taught web developer & designer!</h3>
 </div>
 
 <br/><br/>
