@@ -13,7 +13,7 @@
 
 <br/>
 
-- 👨‍💻 All of my projects are available at [borys35.github.io](borys35.github.io)
+- 👨‍💻 All of my projects are available on [My Portfolio Website](https://borys35.github.io/)
 
 - 📫 How to reach me **boryskac10@gmail.com**
 
