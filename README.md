@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/logo.png" width="120"/>
-  <h1>Hi 👋, I'm Borys Kaczmarek!</h1>
-  <h3>A self-taught web developer & designer!</h3>
+  <h1>Hi 👋, I am Borys Kaczmarek!</h1>
+  <h3>Full-stack developer</h3>
 </div>
 
 <br/><br/>
@@ -13,7 +13,7 @@
 
 <br/>
 
-- 👨‍💻 All of my projects are available on [My Portfolio Website](https://borys35.github.io/)
+- 👨‍💻 Featured projects are available on [My Portfolio Website](https://borys35.github.io/)
 
 - 📫 How to reach me **boryskac10@gmail.com**
 
@@ -21,7 +21,7 @@
 
 
 <h3 align="left">About me</h3>
-<p>I'm an aspiring web developer & designer who is seeking collaboration on web projects. I mainly focus on UI/UX and frontend of websites, but still can do some backend stuff. My favorite technologies that I use are TypeScript with a whole palette of frameworks like React, Svelte, Next.js, Astro, etc. I love to follow and learn new tools and technologies.</p>
+<p>I am student of Wroclaw University of Science and Technology and Full-stack, React Developer passionate about building websites and web applications. I use TypeScript and React with frameworks like Next.js. I have also used other frontend frameworks and backend tools like Node with Express and Nest. I love checking up and learning new tools and technologies.</p>
 
 <br/>
 
