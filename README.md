@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/logo.png" width="120"/>
   <h1>Hi 👋, I'm Borys!</h1>
-  <h3>Full-stack Developer</h3>
+  <p>Full-stack Developer</p>
 </div>
 
 <br/><br/>
@@ -19,10 +19,16 @@
 <br/>
 
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 <p>I am student of Wroclaw University of Science and Technology and Full-stack, React Developer passionate about building websites and web applications. I use TypeScript and React with frameworks like Next.js. I have also used other frontend frameworks and backend tools like Node with Express and Nest. I love checking up and learning new tools and technologies.</p>
 
 <br/>
+
+
+<h2>Some Stats</h2>
+<p>I am so curious about coding in every field and want to try every area that interests me!</p>
+
+![](https://raw.githubusercontent.com/Borys35/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!-- <h3 align="left">Connect with me</h3>
