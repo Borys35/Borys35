@@ -28,7 +28,7 @@
 <h2>Some Stats</h2>
 <p>I am so curious about coding in every field and want to try every area that interests me!</p>
 
-![](https://raw.githubusercontent.com/Borys35/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/Borys35/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only) -->
 
 
 <!-- <h3 align="left">Connect with me</h3>
