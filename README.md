@@ -6,15 +6,15 @@
 
 <br/><br/>
 
-[![website](https://img.shields.io/badge/-My%20Portfolio-orange?style=for-the-badge)](https://borys35.github.io/)
+[![website](https://img.shields.io/badge/-My%20Portfolio-orange?style=for-the-badge)](https://www.boryskaczmarek.pl/)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/borys-kaczmarek/)
 ![GitHub followers](https://img.shields.io/github/followers/borys35?style=for-the-badge)
 
 <br/>
 
-- 👨‍💻 Featured projects are available on [My Portfolio Website](https://borys35.github.io/)
+- 👨‍💻 Featured projects are available on [My Portfolio Website](https://www.boryskaczmarek.pl/)
 
-- 📫 How to reach me **boryskac10@gmail.com**
+- 📫 How to reach me **hello@boryskaczmarek.pl**
 
 <br/>
 
