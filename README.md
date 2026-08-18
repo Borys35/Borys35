@@ -12,9 +12,9 @@
 
 <br/>
 
-- 👨‍💻 Featured projects are available on [My Portfolio Website](https://www.boryskaczmarek.pl/)
+<!-- - 👨‍💻 Featured projects are available on [My Portfolio Website](https://www.boryskaczmarek.pl/) -->
 
-- 📫 How to reach me **hello@boryskaczmarek.pl**
+- 📫 How to reach me **kontakt@boryskaczmarek.pl**
 
 <br/>
 
