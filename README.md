@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 Featured projects are available on [My Portfolio Website](https://www.boryskaczmarek.pl/) -->
 
-- 📫 How to reach me **kontakt@boryskaczmarek.pl**
+- 📫 Reach me here: **boryskac10@gmail.com**
 
 <br/>
 
